@@ -1,0 +1,15 @@
+{
+  "name": "Gigabot",
+  "version": "0.0.0",
+  "description": "Un bot, ultimo oracolo di infoteratura in circolazione, che è anche una guida alla lettura di Atlantico per utenti del Vecchio Mondo",
+  "main": "behavior/scripts/index.js",
+  "scripts": {
+    "start": "initai-dev-server"
+  },
+  "author": "<my-name> <<my-email-address>>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "initai-dev-server": "^0.4.3",
+    "initai-node": "~0.0.6"
+  }
+}
